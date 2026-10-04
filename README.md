@@ -29,6 +29,9 @@ This can be useful for:
 * Content creators
 
 ---
+<img width="928" height="491" alt="Screenshot 2026-10-04 151717" src="https://github.com/user-attachments/assets/5ba0508a-3237-4f35-8140-edd5b5dac44f" />
+<img width="914" height="407" alt="Screenshot 2026-10-04 151741" src="https://github.com/user-attachments/assets/8725c871-acbd-4fcd-8819-df315cd1fdf0" />
+
 
 ## 🔄 Working Process
 
@@ -51,5 +54,4 @@ Predict difficulty
        ↓
 Easy / Medium / Difficult
 
-<img width="928" height="491" alt="Screenshot 2026-10-04 151717" src="https://github.com/user-attachments/assets/5ba0508a-3237-4f35-8140-edd5b5dac44f" />
-<img width="914" height="407" alt="Screenshot 2026-10-04 151741" src="https://github.com/user-attachments/assets/8725c871-acbd-4fcd-8819-df315cd1fdf0" />
+
